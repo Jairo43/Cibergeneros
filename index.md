@@ -9,8 +9,9 @@ Número de vehículados matriculados en el Ecuador en el año 2016
 <div>
 <iframe id="datawrapper-chart-VIiMN" src="//datawrapper.dwcdn.net/VIiMN/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="500"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["VIiMN"]={},window.datawrapper["VIiMN"].embedDeltas={"100":635,"200":608,"300":554,"400":527,"500":527,"700":500,"800":500,"900":500,"1000":500},window.datawrapper["VIiMN"].iframe=document.getElementById("datawrapper-chart-VIiMN"),window.datawrapper["VIiMN"].iframe.style.height=window.datawrapper["VIiMN"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["VIiMN"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("VIiMN"==b)window.datawrapper["VIiMN"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script></div>
 
-```markdown
-Syntax highlighted code block
+Informe Panama Papers
+<div>
+<iframe id="datawrapper-chart-JKVEJ" src="//datawrapper.dwcdn.net/JKVEJ/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["JKVEJ"]={},window.datawrapper["JKVEJ"].embedDeltas={"100":534.0208339999999,"200":454.020834,"300":427.020834,"400":400.020834,"500":400.020834,"700":374.020834,"800":374.020834,"900":374.020834,"1000":374.020834},window.datawrapper["JKVEJ"].iframe=document.getElementById("datawrapper-chart-JKVEJ"),window.datawrapper["JKVEJ"].iframe.style.height=window.datawrapper["JKVEJ"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["JKVEJ"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("JKVEJ"==b)window.datawrapper["JKVEJ"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script></div>
 
 # Header 1
 ## Header 2
